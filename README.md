@@ -25,7 +25,7 @@
 
 - `JavaScript` - O EcmaScript, conhecido como JavaScript, é a principal linguagem de programação da Web, portanto é essencial na criação de sites e aplicações Web por conta de sua capacidade de alterar elementos `HTML` e `CSS`, além de manipular e validar dados [2].
 
-- `HTML` - HTML (Hyper Text Markup Language) é a linguagem padrão  para o desenvolvimento de páginas Web, consiste de uma variedade de elementos que descrevem ao navegador como exibir o conteúdo contido na página [3].
+- `HTML` - HTML (Hyper Text Markup Language) é a linguagem padrão  para o desenvolvimento de páginas Web, consiste de uma variedade de elementos que descrevem ao navegador como exibir o conteúdo contido na página. Essa linguagem tem a capacidade de realizar a comunicação entre o código e a Web. Combina o `JavaScript` e o `CSS` para, repectivamente, criar o comportamento (funcionalidade) e a aparência (estilo) do site [3].
 
 - `CSS` - CSS (Cascading Style Sheets) é uma linguagem de estilização utilizada para descrever a apresentação de um documento escrito em `HTML` ou em `XML`. O CSS descreve como elementos são mostrados na tela, no papel, na fala ou em outras mídias, além de ser uma das principais linguagens da open web e padronizada em navegadores web [4].
 
@@ -60,7 +60,7 @@
 
 [1] - [TreinaWeb](https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar/)  
 [2] - [W3Schools](https://www.w3schools.com/js/js_intro.asp)  
-[3] - [W3Schools](https://www.w3schools.com/html/html_intro.aspv)  
+[3] - [W3Schools](https://www.w3schools.com/html/html_intro.asp)  
 [4] - [Mozilla Developer](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 [5] - [Oracle](https://www.oracle.com/br/mysql/what-is-mysql/)  
 [6] - [CanalTech](https://canaltech.com.br/software/o-que-e-figma/)  
